@@ -24,13 +24,10 @@ Python 3
 
 ## How To install
 ```bash
-
-cd Port-Me
+https://github.com/DanilHere/Port-Me-.git
+cd Port-Me--main
 python3 portme.py
 ```
-
-## Run
-
-```bash
-python3 portme.py
+## Authors
+Danil
 
