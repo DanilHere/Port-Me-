@@ -14,11 +14,7 @@ Simple Python Port Scanner built with Python sockets and threading.
 - Scan summary
 
 ## Example
-[OPEN] 21 (FTP)
-[OPEN] 80 (HTTP)
-[OPEN] 25 (SMTP)
-[OPEN] 53 (DNS)
-Scan complete. Results saved to results.txt
+![Port Me Screenshot](images/screenshoot2.png)
 
 ## Requirements
 
