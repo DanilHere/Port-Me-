@@ -2,6 +2,8 @@
 
 Simple Python Port Scanner built with Python sockets and threading.
 
+![Port Me Screenshot](images/screenshot1.png)
+
 ## Features
 
 - Single port scan
@@ -14,11 +16,18 @@ Simple Python Port Scanner built with Python sockets and threading.
 - Scan summary
 
 ## Example
-![Port Me Screenshot](images/screenshoot2.png)
+![Port Me Screenshot](images/screenshot2.png)
 
 ## Requirements
 
 Python 3
+
+## How To install
+```bash
+
+cd Port-Me
+python3 portme.py
+```
 
 ## Run
 
